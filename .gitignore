@@ -1,0 +1,44 @@
+node_modules
+bower_components
+__pycache__
+*.pyc
+bin
+obj
+*.db
+*.sqlite3
+.vscode
+dist
+
+
+BangazonEnv
+
+#These are the files that Joe S shared on slack to put in gitignore----
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+
+.DS_Store
+media/
+*.pyc
+*.db
+*.pid
+
+# django migrations
+migrations
+
+#db location
+views/connection.py
+talos-env
