@@ -42,3 +42,5 @@ migrations
 #db location
 views/connection.py
 talos-env
+
+external-apis/apikeys
